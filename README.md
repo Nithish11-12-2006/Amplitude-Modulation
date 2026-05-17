@@ -96,10 +96,12 @@ plot(t,eam)
 
 
 ## Output Waveform
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9bcb1c95-0ac4-499b-a446-135a371a519f" />
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/caa5bf77-5e9f-403f-89cd-d7a7bb971399" />
+
 
 ## TABULATION:
-<img width="1600" height="901" alt="WhatsApp Image 2026-04-30 at 2 14 03 PM" src="https://github.com/user-attachments/assets/da7a8273-c4dc-4a9f-82aa-99971ee57109" />
+<img width="866" height="1590" alt="am1" src="https://github.com/user-attachments/assets/0f608d99-2307-4d1d-af6f-8787034cdd19" />
+
 
 
 
@@ -107,7 +109,8 @@ plot(t,eam)
 1.	ma (Theory) = am/ac = 0.667
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.674
 	
-<img width="901" height="1600" alt="WhatsApp Image 2026-04-30 at 2 15 36 PM" src="https://github.com/user-attachments/assets/75753b96-d41a-46ea-b056-e78ab5e628b0" />
+<img width="916" height="1326" alt="am2" src="https://github.com/user-attachments/assets/83c0a7ef-b04f-4eea-a980-7f60bc5935fe" />
+
 
 
 ## MODEL GRAPH
