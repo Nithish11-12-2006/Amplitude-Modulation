@@ -69,15 +69,17 @@ plot(t,eAm);
 ```
 ## Output Waveform
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/caa5bf77-5e9f-403f-89cd-d7a7bb971399" />
+
 ## TABULATION:
-
 <img width="866" height="1590" alt="am1" src="https://github.com/user-attachments/assets/0f608d99-2307-4d1d-af6f-8787034cdd19" />
-## Calculation
 
+## Calculation
 1.	ma (Theory) = am/ac = 0.667
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.674
 <img width="916" height="1326" alt="am2" src="https://github.com/user-attachments/assets/83c0a7ef-b04f-4eea-a980-7f60bc5935fe" />
+
 ## MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
+
 ## RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
